@@ -74,3 +74,9 @@ Security Notice
 This repository contains metadata only.
 
 It does not include production data, customer records, credentials, tokens, IP addresses or database connection strings.
+
+## Author
+
+Ariel Corvalán  
+Founder of nube ERP  
+https://nube.com.py
